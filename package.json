@@ -1,0 +1,15 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "A testing application",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha  || true "
+  },
+  "author": "Dan Kamau",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
